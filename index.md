@@ -2,9 +2,11 @@
 
 Student of BSUIR
 
-### Markdown
+### About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm a novice specialist in the sphere of IT, constantly motivated to achieve goals. Big fan of self-development, who always tries not to lose her time. And, of course, good team player with an excellent interpersonal skills such as goodwill, smiling, sociability, responsibility, diligence, stress resistance, learning, attentiveness, accuracy, active life position. 
+Currently studying at the university. In my freetime I prefer to occupy myself with something that helps to relax. In my case, this is singing or listening to music.
+
 
 ```markdown
 Syntax highlighted code block

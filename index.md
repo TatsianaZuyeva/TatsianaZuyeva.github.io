@@ -1,11 +1,10 @@
 # Tatsiana Zuyeva
-![me](https://github.com/TatsianaZuyeva/TatsianaZuyeva.github.io/blob/master/11111.jpg?raw=true)
-Student of BSUIR
+![me](https://github.com/TatsianaZuyeva/TatsianaZuyeva.github.io/blob/master/11111(1).jpg?raw=true)
 
 ## About me
 
-I'm a novice specialist in the sphere of IT, constantly motivated to achieve goals. Big fan of self-development, who always tries not to lose her time. And, of course, good team player with an excellent interpersonal skills such as goodwill, smiling, sociability, responsibility, diligence, stress resistance, learning, attentiveness, accuracy, active life position. 
-Currently studying at the university. In my freetime I prefer to occupy myself with something that helps to relax. In my case, this is singing or listening to music.
+I'm a 2nd year student of BSUIR and future specialist in the sphere of IT, constantly motivated to learn something new. Big fan of self-development, who always tries not to lose her time. And, of course, good team player with an excellent interpersonal skills such as goodwill, smiling, sociability, responsibility, diligence, stress resistance, learning, attentiveness, accuracy, active life position. 
+Currently studying at the university. In my freetime I prefer to occupy myself with something that helps to relax. In my case, this is singing or listening to music. 
 
 ## Interests
 1. Reading. I do like read both fiction books and non-fiction books. My last book I read is Pride and Prejudice.

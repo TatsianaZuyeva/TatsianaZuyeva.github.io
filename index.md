@@ -12,3 +12,9 @@ Currently studying at the university. In my freetime I prefer to occupy myself w
 2. Singing. I have been singing since I was a little girl. This is the best way to lift my spirits. 
 3. Playing in Club of Fun and Resourceful.
  
+## Professional skills
+1. Basic knowledge of the principles of OOP in C++.
+2. B1 level of English.
+3. Confident PC user.
+4. Do not sleep in the workplace.
+5. Do not gnaw pencils.

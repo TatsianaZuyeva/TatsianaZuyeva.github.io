@@ -18,4 +18,4 @@ Currently studying at the university. In my freetime I prefer to occupy myself w
 4. Do not sleep in the workplace.
 5. Do not gnaw pencils.
 
-Codewars:[Codewars](https://www.codewars.com/users/TatsianaZuyeva)
+Codewars:[click](https://www.codewars.com/users/TatsianaZuyeva)

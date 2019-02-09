@@ -17,3 +17,5 @@ Currently studying at the university. In my freetime I prefer to occupy myself w
 3. Confident PC user.
 4. Do not sleep in the workplace.
 5. Do not gnaw pencils.
+
+Codewars:[Codewars](https://www.codewars.com/users/TatsianaZuyeva)

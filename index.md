@@ -18,10 +18,10 @@ Currently studying at the university. In my freetime I prefer to occupy myself w
 4. Do not sleep in the workplace.
 5. Do not gnaw pencils.
 
-Codewars:[click](https://www.codewars.com/users/TatsianaZuyeva)
-FancyCalc: [click](https://github.com/TatsianaZuyeva/FancyCalc)
-PadawansTask1: [click](https://github.com/TatsianaZuyeva/PadawansTask1)
-PadawansTask2: [click](https://github.com/TatsianaZuyeva/PadawansTask2)
-PadawansTask3: [click](https://github.com/TatsianaZuyeva/PadawansTask3)
-PadawansTask4: [click](https://github.com/TatsianaZuyeva/PadawansTask4)
-PadawansTask5: [click](https://github.com/TatsianaZuyeva/PadawansTask5)
+-Codewars:[click](https://www.codewars.com/users/TatsianaZuyeva)
+-FancyCalc: [click](https://github.com/TatsianaZuyeva/FancyCalc)
+-PadawansTask1: [click](https://github.com/TatsianaZuyeva/PadawansTask1)
+-PadawansTask2: [click](https://github.com/TatsianaZuyeva/PadawansTask2)
+-PadawansTask3: [click](https://github.com/TatsianaZuyeva/PadawansTask3)
+-PadawansTask4: [click](https://github.com/TatsianaZuyeva/PadawansTask4)
+-PadawansTask5: [click](https://github.com/TatsianaZuyeva/PadawansTask5)

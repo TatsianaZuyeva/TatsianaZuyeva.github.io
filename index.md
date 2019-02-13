@@ -26,3 +26,5 @@ Currently studying at the university. In my freetime I prefer to occupy myself w
 5. PadawansTask3: [click](https://github.com/TatsianaZuyeva/PadawansTask3)
 6. PadawansTask4: [click](https://github.com/TatsianaZuyeva/PadawansTask4)
 7. PadawansTask5: [click](https://github.com/TatsianaZuyeva/PadawansTask5)
+8. PadawansTask6: [click](https://github.com/TatsianaZuyeva/PadawansTask6)
+9. PadawansTask13: [click](https://github.com/TatsianaZuyeva/PadawansTask13)

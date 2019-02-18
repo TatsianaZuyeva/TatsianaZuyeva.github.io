@@ -28,8 +28,8 @@ Currently studying at the university. In my freetime I prefer to occupy myself w
 7. PadawansTask5: [click](https://github.com/TatsianaZuyeva/PadawansTask5)
 8. PadawansTask6: [click](https://github.com/TatsianaZuyeva/PadawansTask6)
 9. PadawansTask7: [click](https://github.com/TatsianaZuyeva/PadawansTask7)
-10. PadawansTask8: [click]
-11. PadawansTask9: [click]
+10. PadawansTask8: [click](https://github.com/TatsianaZuyeva/PadawansTask8)
+11. PadawansTask9: [click](https://github.com/TatsianaZuyeva/PadawansTask9)
 12. PadawansTask10: [click]
 13. PadawansTask11: [click]
 14. PadawansTask12: [click]

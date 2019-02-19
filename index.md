@@ -30,7 +30,7 @@ Currently studying at the university. In my freetime I prefer to occupy myself w
 9. PadawansTask7: [click](https://github.com/TatsianaZuyeva/PadawansTask7)
 10. PadawansTask8: [click](https://github.com/TatsianaZuyeva/PadawansTask8)
 11. PadawansTask9: [click](https://github.com/TatsianaZuyeva/PadawansTask9)
-12. PadawansTask10: [click]
+12. PadawansTask10: [click](https://github.com/TatsianaZuyeva/PadawansTask10)
 13. PadawansTask11: [click]
 14. PadawansTask12: [click]
 15. PadawansTask13: [click](https://github.com/TatsianaZuyeva/PadawansTask13)

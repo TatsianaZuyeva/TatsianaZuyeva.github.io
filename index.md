@@ -36,3 +36,4 @@ Currently studying at the university. In my freetime I prefer to occupy myself w
 15. PadawansTask13: [click](https://github.com/TatsianaZuyeva/PadawansTask13)
 16. PadawansTask14: [click]
 17. PadawansTask15: [click](https://github.com/TatsianaZuyeva/PadawansTask15)
+18. The first 20 numbers in the sequenc: [click](https://github.com/TatsianaZuyeva/The-first-20-numbers-in-the-sequence)

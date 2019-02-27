@@ -38,3 +38,4 @@ Currently studying at the university. In my freetime I prefer to occupy myself w
 17. PadawansTask15: [click](https://github.com/TatsianaZuyeva/PadawansTask15)
 18. The first 20 numbers in the sequence: [click](https://github.com/TatsianaZuyeva/The-first-20-numbers-in-the-sequence)
 19. Get started with unit testing: [click](https://github.com/TatsianaZuyeva/Get-started-with-unit-testing)
+20. Basic C# 8. Convert Hex String to RGB with Unit Tests: [clicl] (https://github.com/TatsianaZuyeva/ConvertHexStringToRGB)

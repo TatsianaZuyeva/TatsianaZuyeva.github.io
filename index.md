@@ -19,7 +19,7 @@ Currently studying at the university. In my freetime I prefer to occupy myself w
 5. Do not gnaw pencils.
 
 ## Links
-1. Codewars:[click]()
+1. Codewars:[click](https://www.codewars.com/users/TatsianaZuyeva)
 2. FancyCalc: [click](https://github.com/TatsianaZuyeva/FancyCalc)
 3. PadawansTask1: [click](https://github.com/TatsianaZuyeva/PadawansTask1)
 4. PadawansTask2: [click](https://github.com/TatsianaZuyeva/PadawansTask2)

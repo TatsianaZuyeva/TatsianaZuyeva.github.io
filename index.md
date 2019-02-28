@@ -34,8 +34,8 @@ Currently studying at the university. In my freetime I prefer to occupy myself w
 13. PadawansTask11: [click](https://github.com/TatsianaZuyeva/PadawansTask11)
 14. PadawansTask12: [click](https://github.com/TatsianaZuyeva/PadawansTask12)
 15. PadawansTask13: [click](https://github.com/TatsianaZuyeva/PadawansTask13)
-16. PadawansTask14: [click]
-17. PadawansTask15: [click](https://github.com/TatsianaZuyeva/PadawansTask15)
-18. The first 20 numbers in the sequence: [click](https://github.com/TatsianaZuyeva/The-first-20-numbers-in-the-sequence)
-19. Get started with unit testing: [click](https://github.com/TatsianaZuyeva/Get-started-with-unit-testing)
-20. Basic C# 8. Convert Hex String to RGB with Unit Tests: [click](https://github.com/TatsianaZuyeva/ConvertHexStringToRGB)
+16. PadawansTask15: [click](https://github.com/TatsianaZuyeva/PadawansTask15)
+17. The first 20 numbers in the sequence: [click](https://github.com/TatsianaZuyeva/The-first-20-numbers-in-the-sequence)
+18. Get started with unit testing: [click](https://github.com/TatsianaZuyeva/Get-started-with-unit-testing)
+19. Basic C# 8. Convert Hex String to RGB with Unit Tests: [click](https://github.com/TatsianaZuyeva/ConvertHexStringToRGB)
+20. Basic c# 13. Manipulate URL Parameters with Unit Tests: [click](https://github.com/TatsianaZuyeva/ManipulateURLParameters)
